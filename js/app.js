@@ -2242,6 +2242,10 @@
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="6" width="16" height="12" rx="3"/><path d="M8 6V4M16 6V4M8 3h8"/><path d="m9 9 3 3 3-3"/></svg>' +
       '<span>Bilibili</span>' +
       '</a>' +
+      '<a class="contact-item" href="https://github.com/helium0223hzh-code/SCHEM" target="_blank" rel="noopener">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a9 9 0 0 0-3 17.5c.4.1.5-.2.5-.4v-1.5c-2 .4-2.4-.9-2.4-.9-.3-.8-.8-1-.8-1-.7-.5.1-.5.1-.5.8.1 1.2.8 1.2.8.7 1.2 1.9.8 2.4.6.1-.5.3-.8.5-1-1.8-.2-3.6-.9-3.6-3.9 0-.9.3-1.6.8-2.1-.1-.2-.3-1 .1-2.1 0 0 .7-.2 2.2.8a7.7 7.7 0 0 1 4 0c1.5-1 2.2-.8 2.2-.8.4 1.1.2 1.9.1 2.1.5.5.8 1.2.8 2.1 0 3-1.8 3.7-3.6 3.9.3.2.5.7.5 1.4v2c0 .2.1.5.5.4A9 9 0 0 0 12 3z"/></svg>' +
+      '<span>GitHub · 获取更新</span>' +
+      '</a>' +
       '</div></div>' +
       '</section>';
   }
